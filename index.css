@@ -172,7 +172,7 @@ margin: 0 0.7vw;}
 }
 li.fade{opacity: 1;}
 }
-/* 
+
 .home{flex-direction: column;
 height: 50vh;
 width: 100%;}
@@ -188,20 +188,3 @@ width: 100%;}
     transform: rotate(45deg) translate(-5px,-6px);
 }
 
-.{width: 80%;
-height: 100vh;
-}
-
-.home{height: 100vh;
-width: 100%;
-display: grid;
-grid-template-columns: repeat(2, 1fr);
-grid-template-rows: 1fr;
-grid-column-gap: 1px;
-grid-row-gap: 8px;
-background-color: #ecb22f;
-}
-
-.hometxt{background-color: #680221;}
-
-.homeimg{background-color: #ecb22f;} */
