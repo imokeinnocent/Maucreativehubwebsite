@@ -146,11 +146,6 @@ margin: 0 0.7vw;}
     pointer-events: all;
 }
 
-/* .nav-links.open{
-    clip-path: circle(1000px at 90% -10%);
-    -webkit-clip-path: circle(1000px at 90% -10%);
-    pointer-events: all;
-} */
 .nav-links li{
     opacity: 0;
 }
